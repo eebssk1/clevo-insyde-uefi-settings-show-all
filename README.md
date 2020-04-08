@@ -22,3 +22,6 @@ If you think something is wrongly set and you are unsure, just go to load the op
 
 # well
 Please improve this if you find such values on other models。And sorry for my bad english,any contribution is welcome！
+
+# other
+You can find more informations here > https://www.bios-mods.com/forum/Thread-READ-FIRST-Access-Advanced-settings-through-EFI-shell?page=42
