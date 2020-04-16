@@ -23,7 +23,7 @@ If you think something is wrongly set and you are unsure, just go to load the op
 # well
 Please improve this if you find such values on other models。And sorry for my bad english,any contribution is welcome！
 
-#something went wrong,what to do?
+# something went wrong,what to do?
 If you can still power on the laptop,try the following.
 1. Fully poweroff the laptop,if you can not even boot,hold the power button for about 5 secs to force poweroff.
 2. Hold Fn + D,then press power button,your laptop should start then immediately power off,release the keys.
