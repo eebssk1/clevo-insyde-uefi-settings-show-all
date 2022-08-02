@@ -4,6 +4,8 @@ Little guide on how to show all the settings in clevo insyde_h20 uefi.
 # first things first
 The operations in this guide will most likely unlock __ALL__ settings in this bios. Do __NOT__ do this if you don't have a good reason!
 If you think something is wrongly set and you are unsure, just go to load the optimal defaults, or your device may even can't power on!
+Note:some settings may not be reset with only loading optimal default, in this case you need to fully clean the nvram by removing the cmos battery.
+It's unsure what options have this problem but there sure are.
 
 # values
 + NH50/NHxxRA
