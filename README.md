@@ -10,6 +10,10 @@ If you think something is wrongly set and you are unsure, just go to load the op
     + offset is 0x133
     + value is 0x01
       + tested on hasee_z7m-ct5na(~~oem modded bios~~)
++ NHxxDPx
+    + insyde/clevo hard disabled the show all option with a always false compare in their bios.
+    + You need to unpack the setuputility from the bios then find the assembly and modify it to true and repack_flash the bios to enable the options. 
+      + tested on hasee_z8-cu5xx(~~mining edtion~~)
 
 # generic steps
 1.  Download the modded "uefi shell" here https://github.com/datasone/grub-mod-setup_var ,and save it in a bootable device
