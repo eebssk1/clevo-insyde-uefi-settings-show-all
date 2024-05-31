@@ -16,6 +16,8 @@ It's unsure what options have this problem but there sure are.
     + insyde/clevo hard disabled the show all option with a always false compare in their bios.
     + You need to unpack the setuputility from the bios then find the assembly and modify it to true and repack_flash the bios to enable the options. 
       + tested on hasee_z8-cu5xx(~~mining edtion~~)
++ NH70RDQ
+    + Same as NH50/NHxxRA. Reported by https://github.com/eebssk1/clevo-insyde-uefi-settings-show-all/issues/2#issue-2328629973
 
 # generic steps
 1.  Download the modded "uefi shell" here https://github.com/datasone/grub-mod-setup_var ,and save it in a bootable device
