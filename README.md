@@ -18,6 +18,10 @@ It's unsure what options have this problem but there sure are.
       + tested on hasee_z8-cu5xx(~~mining edtion~~)
 + NH70RDQ
     + Same as NH50/NHxxRA. Reported by https://github.com/eebssk1/clevo-insyde-uefi-settings-show-all/issues/2#issue-2328629973
++ NHxxExQ
+    + offset is 0x212
+    + value is 0x01
+      + tested by schnoog no Medion Erazer Crawler E25 - NH55EJQ - FW: NHxxExQ-M BIOS 1.07.05RME1    
 
 # generic steps
 1.  Download the modded "uefi shell" here https://github.com/datasone/grub-mod-setup_var ,and save it in a bootable device
